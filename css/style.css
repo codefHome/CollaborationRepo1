@@ -1,0 +1,27 @@
+body{
+    background:#eeeeee;
+    font-size:1.6rem;
+    line-height:1.5;
+    text-align: center;
+    color:#333;
+}
+img{
+    max-width:100%;
+    display:block;
+    height:auto;
+    margin:0 auto;
+    border-radius: 10px;
+}
+img-caption{
+    font-size:1.2rem;
+    margin:10px 0 5px 0;
+}
+
+ul{
+    max-width:850px;
+    margin-right: auto;
+    margin-bottom: 40px;
+    margin-left: auto;
+    text-align:left;
+    line-height:1.5;
+}
